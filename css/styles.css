@@ -368,11 +368,6 @@ img {
     justify-content: space-between;
     align-items: flex-end;
 }
-
-.project-item-info {}
-
-.project-item-action {}
-
 .project-list {
     display: flex;
     flex-wrap: wrap;
@@ -383,7 +378,7 @@ img {
     flex-basis: calc((100% - 20px) / 2);
 }
 
-/* .project-item-image {
+ .project-item-image {
     width: 590px;
     height: 661px;
     margin-bottom: 24px;
