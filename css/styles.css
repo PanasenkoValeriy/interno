@@ -65,7 +65,7 @@ img {
     height: 831px;
     max-width: 100%;
 
-    background-image: url(../images/hero-photo.jpg);
+    background-image: url(../img/hero-photo.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -97,7 +97,7 @@ img {
     width: 207px;
     height: 71px;
 
-    background-image: url(../images/button.jpg);
+    background-image: url(../img/button.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -174,6 +174,6 @@ img {
     content: "";
     width: 24px;
     height: 17px;
-    background-image: url(../images/arrow.svg);
+    background-image: url(../img/arrow.svg);
     margin-left: 6px;
 }
