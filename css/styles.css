@@ -587,6 +587,7 @@ cursor: pointer;
     color: #4d5053;
     margin-top: 15px;
     margin-bottom: 30px;
+    margin-right: 110px;
 }
 
 .footer-list {
@@ -612,18 +613,21 @@ cursor: pointer;
     letter-spacing: 0.22px;
     color: #292F36;
     margin-bottom: 21px;
+
 }
 
+
 .pages-list-item {
-    margin: 30px;
+    margin-bottom: 30px;
 }
 
 .footer-explore {
     width: 210px;
+
 }
 
 .explore-list-item {
-    margin: 30px;
+    margin-bottom: 30px;
 }
 
 .footer-contact {
@@ -631,7 +635,7 @@ cursor: pointer;
 }
 
 .contact-list-item {
-    margin: 30px;
+    margin-bottom: 30px;
 }
 /* Footer-copyright */
 
