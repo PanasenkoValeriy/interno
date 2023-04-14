@@ -568,7 +568,6 @@ color: #FFFFFF;
 cursor: pointer;
 }
 
-
 /* Footer */
 
 .footer-section {
@@ -578,10 +577,16 @@ cursor: pointer;
 }
 
 .footer-text {
-    margin-top: 20px;
-    margin-bottom: 30px;
+    width: 326px;
+    font-family: "Jost";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
     line-height: 33px;
     letter-spacing: 0.22px;
+    color: #4d5053;
+    margin-top: 15px;
+    margin-bottom: 30px;
 }
 
 .footer-list {
